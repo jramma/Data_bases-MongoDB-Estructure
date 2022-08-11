@@ -1,0 +1,4 @@
+{"_id":{"$oid":"62f4e1173b02fc7d720afe95"},"name":"Alfonso","empleado_id":1}
+{"_id":{"$oid":"62f4e1243b02fc7d720afe96"},"name":"Fernando","empleado_id":2}
+{"_id":{"$oid":"62f4e12c3b02fc7d720afe97"},"name":"Mateo","empleado_id":3}
+{"_id":{"$oid":"62f4e1323b02fc7d720afe98"},"name":"Laura","empleado_id":4}
