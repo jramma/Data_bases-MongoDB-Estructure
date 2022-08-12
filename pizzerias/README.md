@@ -7,7 +7,7 @@
 
 "show dbs" -> mostrar bases de datos
 
-"use optica" -> usar la base de datos 'optica'
+"use pizzerias" -> usar la base de datos 'pizzerias'
 
 "show collections" -> mostrar colecciones
 
