@@ -1,4 +1,4 @@
-# pizzerias en mongoDB
+# DB pizzerias en mongoDB
 
 - Para ver las colecciones una vez ya creadas:
 
