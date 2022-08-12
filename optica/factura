@@ -1,3 +1,0 @@
-{"_id":{"$oid":"62f4eb17f0d2634fa8143196"},"gafa_id":1,"cliente_id":1,"fecha":"01/01/2001","empleado_que_atendio":1}
-{"_id":{"$oid":"62f4eb20f0d2634fa8143197"},"gafa_id":2,"cliente_id":3,"fecha":"01/01/2020","empleado_que_atendio":4}
-{"_id":{"$oid":"62f4eb20f0d2634fa8143198"},"gafa_id":3,"cliente_id":2,"fecha":"01/01/1997","empleado_que_atendio":3}

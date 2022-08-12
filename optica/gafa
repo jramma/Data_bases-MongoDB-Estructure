@@ -1,3 +1,0 @@
-{"_id":{"$oid":"62f4ea7ef0d2634fa8143193"},"id_gafa":1,"marca_id":1,"graduacion":0.75,"montura":"saoko","colorCristal":"silver_red","precio":235.99}
-{"_id":{"$oid":"62f4ea8bf0d2634fa8143194"},"id_gafa":2,"marca_id":2,"graduacion":4.0,"montura":"rayBanIT","colorCristal":"black_shadow","precio":348.99}
-{"_id":{"$oid":"62f4ea95f0d2634fa8143195"},"id_gafa":3,"marca_id":3,"graduacion":0.0,"montura":"F1","colorCristal":"translucid_blue","precio":345.78}
