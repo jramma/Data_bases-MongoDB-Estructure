@@ -1,0 +1,4 @@
+{"_id":{"$oid":"62f60acde3ea599af9e00982"},"id":1,"name":"Pizza_Iniesta_de_mi_vida","direccion":"C/San Antonio 22","codigo_postal":8800,"localidad_id":1,"provincia_id":1,"num_comandas":0,"num_empleados":3}
+{"_id":{"$oid":"62f60acfe3ea599af9e00983"},"id":2,"name":"Se_sienta_a_la_Mesa","direccion":"c/Atenas 96","codigo_postal":30764,"localidad_id":2,"provincia_id":1,"num_comandas":2,"num_empleados":2}
+{"_id":{"$oid":"62f60ad1e3ea599af9e00984"},"id":3,"name":"puzzles","direccion":"c/Valencia 23","codigo_postal":45390,"localidad_id":3,"provincia_id":1,"num_comandas":0,"num_empleados":1}
+{"_id":{"$oid":"62f60ad2e3ea599af9e00985"},"id":4,"name":"hamburger&pizza","direccion":"c/albufereta 23","codigo_postal":567572,"localidad_id":4,"provincia_id":1,"num_comandas":0,"num_empleados":1}

@@ -1,0 +1,3 @@
+{"_id":{"$oid":"62f4ebc8f0d2634fa8143199"},"cliente_id":1,"nombre":"Juan","direccion_id":1,"telefono":655000444,"mail":"juan@mail.com","create_time":{"$code":"function now() { [native code] }"},"cliente_recomendador":2,"empleado_que_atiende":1}
+{"_id":{"$oid":"62f4ebcdf0d2634fa814319a"},"cliente_id":2,"nombre":"Maria","direccion_id":1,"telefono":676345986,"mail":"maria@mail.com","create_time":{"$code":"function now() { [native code] }"},"cliente_recomendador":3,"empleado_que_atiende":1}
+{"_id":{"$oid":"62f4ebcef0d2634fa814319b"},"cliente_id":3,"nombre":"Daniela","direccion_id":2,"telefono":676243909,"mail":"daniela@mail.com","create_time":{"$code":"function now() { [native code] }"},"cliente_recomendador":1,"empleado_que_atiende":2}

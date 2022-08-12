@@ -1,0 +1,3 @@
+{"_id":{"$oid":"62f4e6f6ddfdd84ec3f63bee"},"proveedor_id":1,"name":"RayBanEs","direccion_id":1,"telefono":600111111,"fax":149723,"nif":"22887733A"}
+{"_id":{"$oid":"62f4e733ddfdd84ec3f63bef"},"proveedor_id":2,"name":"BeoSA","direccion_id":2,"telefono":644444555,"fax":2396763,"nif":"101010101B"}
+{"_id":{"$oid":"62f4e770ddfdd84ec3f63bf0"},"proveedor_id":3,"name":"OkleySA","direccion_id":2,"telefono":6333333355,"fax":599041,"nif":"4444444444C"}
