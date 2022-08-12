@@ -1,6 +1,4 @@
-# Estructura-de-dades---MongoDB
-
-> pizzerias en mongoDB
+# pizzerias en mongoDB
 
 - Para ver las colecciones una vez ya creadas:
 
