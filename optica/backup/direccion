@@ -1,0 +1,2 @@
+{"_id":{"$oid":"62f4e0683b02fc7d720afe93"},"calle":"c/Palatros","numero":1,"piso":2,"puerta":"b","ciudad":"Valencia","codigo_postal":8900,"pais":"Italia","direccion_id":1}
+{"_id":{"$oid":"62f4e0b03b02fc7d720afe94"},"calle":"c/Francesc Macià","numero":76,"piso":5,"puerta":"7","ciudad":"Aragón","codigo_postal":584,"pais":"Portugal","direccion_id":2}
