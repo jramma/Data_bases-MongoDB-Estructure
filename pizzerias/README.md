@@ -1,10 +1,11 @@
 # Estructura-de-dades---MongoDB
 
->> optica en mongoDB
+> pizzerias en mongoDB
 
 - Para ver las colecciones una vez ya creadas:
 
-<img width="1440" alt="Optica_collections_mongo" src="https://user-images.githubusercontent.com/107991714/184191066-23cb75c1-c62b-4cdf-b1c0-396bd9cbb050.png">
+<img width="1440" alt="Captura de Pantalla 2022-08-12 a las 14 29 43" src="https://user-images.githubusercontent.com/107991714/184354320-8927cf8c-3842-46d3-9d3b-25cb63d25ad7.png">
+
 
 "show dbs" -> mostrar bases de datos
 
