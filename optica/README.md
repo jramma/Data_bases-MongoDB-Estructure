@@ -1,14 +1,9 @@
-# Estructura-de-dades---MongoDB
+# optica en mongoDB
 
->> optica en mongoDB
+![Optica](https://user-images.githubusercontent.com/107991714/185207810-6818b3c1-57d1-4cc2-bfea-9f1ff4eb4c59.png)
+
 
 - Para ver las colecciones una vez ya creadas:
 
-<img width="1440" alt="Optica_collections_mongo" src="https://user-images.githubusercontent.com/107991714/184191066-23cb75c1-c62b-4cdf-b1c0-396bd9cbb050.png">
 
-"show dbs" -> mostrar bases de datos
-
-"use optica" -> usar la base de datos 'optica'
-
-"show collections" -> mostrar colecciones
 
