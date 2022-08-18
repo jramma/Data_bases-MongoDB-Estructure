@@ -1,7 +1,0 @@
-{"_id":{"$oid":"62f60b44e3ea599af9e00986"},"id":1,"name":"Antonio","apellido":"Rodriguez","nif":"11123476A","telefono":656656656,"id_tienda":1,"es_repartidor":0,"comanda_id":0}
-{"_id":{"$oid":"62f60b46e3ea599af9e00987"},"id":2,"name":"Luis","apellido":"Jose","nif":"22222222222B","telefono":226666222,"id_tienda":2,"es_repartidor":1,"comanda_id":1}
-{"_id":{"$oid":"62f60b47e3ea599af9e00988"},"id":3,"name":"Esther","apellido":"Serrat","nif":"22334422C","telefono":676767676,"id_tienda":2,"es_repartidor":1,"comanda_id":2}
-{"_id":{"$oid":"62f60b48e3ea599af9e00989"},"id":4,"name":"Francisca","apellido":"Rodriguez","nif":"23232323E","telefono":686686686,"id_tienda":1,"es_repartidor":1,"comanda_id":3}
-{"_id":{"$oid":"62f60b49e3ea599af9e0098a"},"id":5,"name":"Manel","apellido":"Prats","nif":"233345323D","telefono":68686686,"id_tienda":1,"es_repartidor":0,"comanda_id":0}
-{"_id":{"$oid":"62f60b4ae3ea599af9e0098b"},"id":6,"name":"Carmen","apellido":"Bover","nif":"77777777F","telefono":657657657,"id_tienda":2,"es_repartidor":0,"comanda_id":0}
-{"_id":{"$oid":"62f60b4ce3ea599af9e0098c"},"id":7,"name":"Andrea","apellido":"Prieto","nif":"23432343G","telefono":668866994,"id_tienda":1,"es_repartidor":1,"comanda_id":4}

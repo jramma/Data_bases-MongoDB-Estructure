@@ -1,8 +1,0 @@
-{"_id":{"$oid":"62f61951e3ea599af9e0099d"},"id":1,"tipo_id":1,"name":"Iberica","descripcion":"pizza Iberica","imagen":null,"precio":12.45,"created_by_tienda_id":1,"categoria_Pizza":1,"id_tienda_que_gestiona":1}
-{"_id":{"$oid":"62f61952e3ea599af9e0099e"},"id":1,"tipo_id":2,"name":"Steack_house","descripcion":"Hamburguesa de ternera","imagen":null,"precio":17.5,"created_by_tienda_id":2,"categoria_Pizza":0,"id_tienda_que_gestiona":1}
-{"_id":{"$oid":"62f61953e3ea599af9e0099f"},"id":3,"tipo_id":3,"name":"Agua","descripcion":"refresco agua","imagen":null,"precio":2.5,"created_by_tienda_id":1,"categoria_Pizza":0,"id_tienda_que_gestiona":1}
-{"_id":{"$oid":"62f61953e3ea599af9e009a0"},"id":4,"tipo_id":1,"name":"Mozzarella","descripcion":"pizza Mozzarella","imagen":null,"precio":12.45,"created_by_tienda_id":1,"categoria_Pizza":2,"id_tienda_que_gestiona":1}
-{"_id":{"$oid":"62f61956e3ea599af9e009a1"},"id":5,"tipo_id":1,"name":"Boloñesa","descripcion":"pizza Boloñesa","imagen":null,"precio":12.45,"created_by_tienda_id":3,"categoria_Pizza":1,"id_tienda_que_gestiona":1}
-{"_id":{"$oid":"62f61956e3ea599af9e009a2"},"id":6,"tipo_id":2,"name":"Pollo","descripcion":"hamburguesa de pollo","imagen":null,"precio":14.75,"created_by_tienda_id":1,"categoria_Pizza":0,"id_tienda_que_gestiona":1}
-{"_id":{"$oid":"62f61957e3ea599af9e009a3"},"id":7,"tipo_id":3,"name":"Cola","descripcion":"bebida de cola","imagen":null,"precio":3.75,"created_by_tienda_id":2,"categoria_Pizza":0,"id_tienda_que_gestiona":1}
-{"_id":{"$oid":"62f61957e3ea599af9e009a4"},"id":8,"tipo_id":2,"name":"Beacon&chease","descripcion":"con beacon y queso","imagen":null,"precio":17.99,"created_by_tienda_id":2,"categoria_Pizza":0,"id_tienda_que_gestiona":1}

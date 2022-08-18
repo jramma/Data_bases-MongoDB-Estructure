@@ -1,4 +1,0 @@
-{"_id":{"$oid":"62f6176be3ea599af9e00991"},"id":1,"create_time":{"$date":"2013-10-02T01:11:18.965Z"},"domicilio_S_N":1,"cantidad_por_producto":2,"precio_total":48.75,"cliente_id":1,"num_productos":[1,2,12],"tienda_id":1}
-{"_id":{"$oid":"62f6176ee3ea599af9e00992"},"id":2,"create_time":{"$date":"2013-10-02T01:11:18.965Z"},"domicilio_S_N":0,"cantidad_por_producto":1,"precio_total":48.75,"cliente_id":2,"num_productos":[1,3,5],"tienda_id":1}
-{"_id":{"$oid":"62f6176fe3ea599af9e00993"},"id":3,"create_time":{"$date":"2013-10-02T01:11:18.965Z"},"domicilio_S_N":0,"cantidad_por_producto":1,"precio_total":34.78,"cliente_id":4,"num_productos":[3,4,6],"tienda_id":3}
-{"_id":{"$oid":"62f61770e3ea599af9e00994"},"id":4,"create_time":{"$date":"2013-10-02T01:11:18.965Z"},"domicilio_S_N":0,"cantidad_por_producto":1,"precio_total":30.0,"cliente_id":3,"num_productos":[2,2,5],"tienda_id":2}

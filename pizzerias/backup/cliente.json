@@ -1,4 +1,0 @@
-{"_id":{"$oid":"62f6184ae3ea599af9e00995"},"id":1,"name":"Mateo","apellido":"Garcia","direccion":"c/Antonio 23","codigo_postal":8800,"localidad_id":1,"provincia_id":1,"telefono":646646646,"create_time":{"$date":"2022-08-11T22:00:00Z"}}
-{"_id":{"$oid":"62f6184be3ea599af9e00996"},"id":2,"name":"Irene","apellido":"Sorolla","direccion":"c/Irene 44","codigo_postal":303030,"localidad_id":2,"provincia_id":2,"telefono":555000555,"create_time":{"$date":"2022-08-11T22:00:00Z"}}
-{"_id":{"$oid":"62f6184ce3ea599af9e00997"},"id":3,"name":"Luisa","apellido":"Garcia","direccion":"c/Luisa 23","codigo_postal":6677660,"localidad_id":3,"provincia_id":4,"telefono":333000333,"create_time":{"$date":"2022-08-11T22:00:00Z"}}
-{"_id":{"$oid":"62f6184de3ea599af9e00998"},"id":4,"name":"Manel","apellido":"Macià","direccion":"c/Manel 23","codigo_postal":909090,"localidad_id":3,"provincia_id":2,"telefono":444000444,"create_time":{"$date":"2022-08-11T22:00:00Z"}}
