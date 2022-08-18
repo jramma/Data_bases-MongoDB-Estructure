@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "62f4e733ddfdd84ec3f63bef"
+  },
+  "name": "BeoSA",
+  "fax": 2396763,
+  "nif": "101010101B",
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone_number": 644444555
+},{
+  "_id": {
+    "$oid": "62f4e6f6ddfdd84ec3f63bee"
+  },
+  "name": "RayBanEs",
+  "fax": 149723,
+  "nif": "22887733A",
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone_number": 600111111
+},{
+  "_id": {
+    "$oid": "62f4e770ddfdd84ec3f63bf0"
+  },
+  "name": "OkleySA",
+  "telefono": {
+    "$numberLong": "6333333355"
+  },
+  "fax": 599041,
+  "nif": "4444444444C",
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  }
+}]

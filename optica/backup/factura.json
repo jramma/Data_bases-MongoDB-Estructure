@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "62f4eb17f0d2634fa8143196"
+  },
+  "gafa_id": {
+    "$oid": "62f4ea7ef0d2634fa8143193"
+  },
+  "cliente_id": {
+    "$oid": "62f4ebc8f0d2634fa8143199"
+  },
+  "fecha": "01/01/2001",
+  "empleado_que_atendio": {
+    "$oid": "62f4e12c3b02fc7d720afe97"
+  }
+},{
+  "_id": {
+    "$oid": "62f4eb20f0d2634fa8143197"
+  },
+  "gafa_id": {
+    "$oid": "62f4ea8bf0d2634fa8143194"
+  },
+  "cliente_id": {
+    "$oid": "62f4ebcdf0d2634fa814319a"
+  },
+  "fecha": "01/01/2020",
+  "empleado_que_atendio": {
+    "$oid": "62f4e12c3b02fc7d720afe97"
+  }
+},{
+  "_id": {
+    "$oid": "62f4eb20f0d2634fa8143198"
+  },
+  "gafa_id": {
+    "$oid": "62f4ea95f0d2634fa8143195"
+  },
+  "cliente_id": {
+    "$oid": "62f4ebcef0d2634fa814319b"
+  },
+  "fecha": "01/01/1997",
+  "empleado_que_atendio": {
+    "$oid": "62f4e12c3b02fc7d720afe97"
+  }
+}]

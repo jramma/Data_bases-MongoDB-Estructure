@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "62f60b76e3ea599af9e0098d"
+  },
+  "city": "Valencia",
+  "country": "Spain",
+  "door": "E",
+  "flat": 2,
+  "postal_code": 3140,
+  "street": "Málaga",
+  "street_number": 23
+},{
+  "_id": {
+    "$oid": "62f60b79e3ea599af9e0098e"
+  },
+  "country": "Spain",
+  "door": 3,
+  "flat": 4,
+  "postal_code": 3106,
+  "street": "Pío IX",
+  "street_number": 14,
+  "city": "Valencia"
+},{
+  "_id": {
+    "$oid": "62f60b7ae3ea599af9e0098f"
+  },
+  "city": "Valencia",
+  "country": "Spain",
+  "door": "3",
+  "flat": 2,
+  "postal_code": 3108,
+  "street": "Elio",
+  "street_number": 75
+},{
+  "_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "city": "Valencia",
+  "country": "Spain",
+  "postal_code": 3101,
+  "street": "Cádiz",
+  "street_number": 45
+}]

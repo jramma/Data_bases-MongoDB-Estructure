@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "62f4ebc8f0d2634fa8143199"
+  },
+  "telefono": 655000444,
+  "mail": "juan@mail.com",
+  "create_time": {
+    "$code": "function now() { [native code] }"
+  },
+  "cliente_recomendador": {
+    "$oid": "62f4ebcef0d2634fa814319b"
+  },
+  "empleado_que_atiende": {
+    "$oid": "62f4e1323b02fc7d720afe98"
+  },
+  "address_id": {
+    "$oid": "62f60b76e3ea599af9e0098d"
+  },
+  "name": "Juan"
+},{
+  "_id": {
+    "$oid": "62f4ebcdf0d2634fa814319a"
+  },
+  "telefono": 676345986,
+  "mail": "maria@mail.com",
+  "create_time": {
+    "$code": "function now() { [native code] }"
+  },
+  "cliente_recomendador": {
+    "$oid": "62f4ebcef0d2634fa814319b"
+  },
+  "empleado_que_atiende": {
+    "$oid": "62f4e1323b02fc7d720afe98"
+  },
+  "address_id": {
+    "$oid": "62f60b79e3ea599af9e0098e"
+  },
+  "name": "Maria"
+},{
+  "_id": {
+    "$oid": "62f4ebcef0d2634fa814319b"
+  },
+  "telefono": 676243909,
+  "mail": "daniela@mail.com",
+  "create_time": {
+    "$code": "function now() { [native code] }"
+  },
+  "empleado_que_atiende": {
+    "$oid": "62f4e1323b02fc7d720afe98"
+  },
+  "address_id": {
+    "$oid": "62f60b7ae3ea599af9e0098f"
+  },
+  "name": "Daniela"
+}]

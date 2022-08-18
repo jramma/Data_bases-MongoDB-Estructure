@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "62f4ea7ef0d2634fa8143193"
+  },
+  "graduacion": [
+    {
+      "$numberDecimal": "0.75"
+    },
+    {
+      "$numberDecimal": "2.45"
+    }
+  ],
+  "colorCristal": "silver_red",
+  "precio": 235.99,
+  "marca": {
+    "name": "RayBan",
+    "proveedor_id": {
+      "$oid": "62f4e6f6ddfdd84ec3f63bee"
+    }
+  },
+  "montura_name": "saoko"
+},{
+  "_id": {
+    "$oid": "62f4ea8bf0d2634fa8143194"
+  },
+  "graduacion": [
+    {
+      "$numberDecimal": "0.45"
+    },
+    {
+      "$numberDecimal": "2.5"
+    }
+  ],
+  "colorCristal": "black_shadow",
+  "precio": 348.99,
+  "marca": {
+    "name": "Okley",
+    "proveedor_id": {
+      "$oid": "62f4e770ddfdd84ec3f63bf0"
+    }
+  },
+  "montura_name": "F1"
+},{
+  "_id": {
+    "$oid": "62f4ea95f0d2634fa8143195"
+  },
+  "graduacion": [
+    {
+      "$numberDecimal": "2.34"
+    },
+    {
+      "$numberDecimal": "2.54"
+    }
+  ],
+  "colorCristal": "translucid_blue",
+  "precio": 345.78,
+  "marca": {
+    "name": "Beo",
+    "proveedor_id": {
+      "$oid": "62f4e733ddfdd84ec3f63bef"
+    }
+  },
+  "montura_name": "Springtemps"
+}]
