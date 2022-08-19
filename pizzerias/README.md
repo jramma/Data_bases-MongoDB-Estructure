@@ -2,11 +2,12 @@
 
 ![Untitled](https://user-images.githubusercontent.com/107991714/185207923-6822f5d0-591a-43af-89d0-48d07bb7bccc.png)
 
-Si se fijan, las arrays barían; por ejemplo, en productos de la comanda, no todas las comandas tienen ni los mismos productos dentro de la array ni la misma cantidad. Es importante tener esto en cuenta, las Array no son categorías. Se distinguen porque pone 'Ary' en la relación con la categoría y encontramos el nombre en la categoría.
+Si se fijan, los object (Ary) barían; por ejemplo, en productos de la comanda, no todas las comandas tienen ni los mismos productos dentro de "productos" ni la misma cantidad.
 
 - Para ver las colecciones una vez ya creadas en el shell:
 
-<img width="1440" alt="Captura de Pantalla 2022-08-12 a las 14 29 43" src="https://user-images.githubusercontent.com/107991714/184354320-8927cf8c-3842-46d3-9d3b-25cb63d25ad7.png">
+
+<img width="648" alt="Captura de Pantalla 2022-08-19 a las 10 17 09" src="https://user-images.githubusercontent.com/107991714/185575773-58b7fd35-6f3f-4495-b09b-67a17eddb841.png">
 
 
 "show dbs" -> mostrar bases de datos
@@ -15,6 +16,6 @@ Si se fijan, las arrays barían; por ejemplo, en productos de la comanda, no tod
 
 "show collections" -> mostrar colecciones
 
-- También puedes ver una colección en concreto (.find()):
+Para ver una colección en concreto usar "db.<collection_name>.find()"
 
 
