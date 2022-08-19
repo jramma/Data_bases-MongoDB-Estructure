@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62f6184ae3ea599af9e00995"
+  },
+  "name": "Mateo",
+  "create_time": {
+    "$date": {
+      "$numberLong": "1660255200000"
+    }
+  },
+  "address_id": {
+    "$oid": "62f60b76e3ea599af9e0098d"
+  },
+  "phone": 646646646,
+  "surname": "Garcia"
+},{
+  "_id": {
+    "$oid": "62f6184be3ea599af9e00996"
+  },
+  "name": "Irene",
+  "create_time": {
+    "$date": {
+      "$numberLong": "1660255200000"
+    }
+  },
+  "address_id": {
+    "$oid": "62f60b79e3ea599af9e0098e"
+  },
+  "phone": 555000555,
+  "surname": "Sorolla"
+},{
+  "_id": {
+    "$oid": "62f6184ce3ea599af9e00997"
+  },
+  "name": "Luisa",
+  "create_time": {
+    "$date": {
+      "$numberLong": "1660255200000"
+    }
+  },
+  "address_id": {
+    "$oid": "62f60b7ae3ea599af9e0098f"
+  },
+  "phone": 333000333,
+  "surname": "Garcia"
+},{
+  "_id": {
+    "$oid": "62f6184de3ea599af9e00998"
+  },
+  "name": "Manel",
+  "telefono": 444000444,
+  "create_time": {
+    "$date": {
+      "$numberLong": "1660255200000"
+    }
+  },
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "surname": "Macià"
+}]

@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "62f61951e3ea599af9e0099d"
+  },
+  "name": "Iberica",
+  "descripcion": "pizza Iberica",
+  "imagen": null,
+  "precio": 12.45,
+  "categoria_Pizza": {
+    "name": "Familiar",
+    "descripcion": "pizza para 4"
+  },
+  "id_tienda": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "tipo": "pizza"
+},{
+  "_id": {
+    "$oid": "62f61952e3ea599af9e0099e"
+  },
+  "name": "Steack_house",
+  "descripcion": "Hamburguesa de ternera",
+  "imagen": null,
+  "precio": 17.5,
+  "id_tienda": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "tipo": "Hamburguer"
+},{
+  "_id": {
+    "$oid": "62f61953e3ea599af9e0099f"
+  },
+  "name": "Agua",
+  "descripcion": "refresco agua",
+  "imagen": null,
+  "precio": 2.5,
+  "id_tienda": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "tipo": "Drinks"
+},{
+  "_id": {
+    "$oid": "62f61953e3ea599af9e009a0"
+  },
+  "name": "Mozzarella",
+  "descripcion": "pizza Mozzarella",
+  "imagen": null,
+  "precio": 12.45,
+  "categoria_Pizza": {
+    "name": "individual",
+    "descripcion": "pizza para 1"
+  },
+  "id_tienda": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "tipo": "pizza"
+},{
+  "_id": {
+    "$oid": "62f61956e3ea599af9e009a1"
+  },
+  "name": "Cola",
+  "descripcion": "refresco cola",
+  "imagen": null,
+  "precio": 12.45,
+  "id_tienda": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "tipo": "Drink"
+}]

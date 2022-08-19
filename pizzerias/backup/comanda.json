@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "62f6176be3ea599af9e00991"
+  },
+  "create_time": {
+    "$date": {
+      "$numberLong": "1380676278965"
+    }
+  },
+  "domicilio_S_N": {
+    "$binary": {
+      "base64": "MQ==",
+      "subType": "00"
+    }
+  },
+  "precio_total": 48.75,
+  "cliente_id": {
+    "$oid": "62f6184ae3ea599af9e00995"
+  },
+  "num_productos": 3,
+  "tienda_id": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "productos": {
+    "pizza1": {
+      "$oid": "62f61951e3ea599af9e0099d"
+    },
+    "pizza2": {
+      "$oid": "62f61953e3ea599af9e009a0"
+    },
+    "bebida": {
+      "$oid": "62f61953e3ea599af9e0099f"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62f6176ee3ea599af9e00992"
+  },
+  "create_time": {
+    "$date": {
+      "$numberLong": "1380676278965"
+    }
+  },
+  "domicilio_S_N": {
+    "$binary": {
+      "base64": "MA==",
+      "subType": "00"
+    }
+  },
+  "precio_total": 48.75,
+  "cliente_id": {
+    "$oid": "62f6184be3ea599af9e00996"
+  },
+  "num_productos": 2,
+  "tienda_id": {
+    "$oid": "62f60acfe3ea599af9e00983"
+  },
+  "productos": {
+    "pizza1": {
+      "$oid": "62f61951e3ea599af9e0099d"
+    },
+    "bebida": {
+      "$oid": "62f61953e3ea599af9e0099f"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62f6176fe3ea599af9e00993"
+  },
+  "create_time": {
+    "$date": {
+      "$numberLong": "1380676278965"
+    }
+  },
+  "domicilio_S_N": {
+    "$binary": {
+      "base64": "MA==",
+      "subType": "00"
+    }
+  },
+  "precio_total": 34.78,
+  "cliente_id": {
+    "$oid": "62f6184ce3ea599af9e00997"
+  },
+  "num_productos": 2,
+  "tienda_id": {
+    "$oid": "62f60ad1e3ea599af9e00984"
+  },
+  "productos": {
+    "hamburguesa": {
+      "$oid": "62f61952e3ea599af9e0099e"
+    },
+    "bebida": {
+      "$oid": "62f61956e3ea599af9e009a1"
+    }
+  }
+}]

@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "62f4eb17f0d2634fa8143196"
+  },
+  "created_time": {
+    "$date": {
+      "$numberLong": "978303600000"
+    }
+  },
+  "id_comanda": {
+    "$oid": "62f6176be3ea599af9e00991"
+  },
+  "id_repartidor": {
+    "$oid": "62f60b46e3ea599af9e00987"
+  }
+},{
+  "_id": {
+    "$oid": "62f4eb20f0d2634fa8143197"
+  },
+  "created_time": {
+    "$date": {
+      "$numberLong": "1577833200000"
+    }
+  },
+  "id_comanda": {
+    "$oid": "62f6176ee3ea599af9e00992"
+  },
+  "id_repartidor": {
+    "$oid": "62f60b47e3ea599af9e00988"
+  }
+},{
+  "_id": {
+    "$oid": "62f4eb20f0d2634fa8143198"
+  },
+  "created_time": {
+    "$date": {
+      "$numberLong": "852073200000"
+    }
+  },
+  "id_comanda": {
+    "$oid": "62f6176fe3ea599af9e00993"
+  },
+  "id_repartidor": {
+    "$oid": "62f60b48e3ea599af9e00989"
+  }
+}]

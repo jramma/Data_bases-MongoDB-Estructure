@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "62f60b76e3ea599af9e0098d"
+  },
+  "country": "Spain",
+  "street": "Málaga",
+  "street_number": 23,
+  "localidad": {
+    "name": "Valencia",
+    "provincia": "Valencia",
+    "postal_code": "03401"
+  }
+},{
+  "_id": {
+    "$oid": "62f60b79e3ea599af9e0098e"
+  },
+  "country": "Spain",
+  "street": "Pío IX",
+  "street_number": 14,
+  "localidad": {
+    "name": "Alicante",
+    "postal_code": 3309,
+    "provincia": "Alicante"
+  }
+},{
+  "_id": {
+    "$oid": "62f60b7ae3ea599af9e0098f"
+  },
+  "country": "Spain",
+  "street": "Elio",
+  "street_number": 75,
+  "localidad": {
+    "name": "Castellon",
+    "postal_code": "03309",
+    "provincia": "Castellon"
+  }
+},{
+  "_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "country": "Spain",
+  "street": "Cádiz",
+  "street_number": 45,
+  "localidad": {
+    "name": "Tarragona",
+    "postal_code": 6089,
+    "provincia": "Tarragona"
+  }
+}]

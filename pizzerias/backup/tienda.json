@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "name": "Pizza_Iniesta_de_mi_vida",
+  "num_comandas": 0,
+  "num_empleados": 3,
+  "address_id": {
+    "$oid": "62f60b79e3ea599af9e0098e"
+  }
+},{
+  "_id": {
+    "$oid": "62f60acfe3ea599af9e00983"
+  },
+  "name": "Se_sienta_a_la_Mesa",
+  "num_comandas": 2,
+  "num_empleados": 2,
+  "address_id": {
+    "$oid": "62f60b79e3ea599af9e0098e"
+  }
+},{
+  "_id": {
+    "$oid": "62f60ad1e3ea599af9e00984"
+  },
+  "name": "puzzles",
+  "num_comandas": 0,
+  "num_empleados": 1,
+  "address_id": {
+    "$oid": "62f60b7ae3ea599af9e0098f"
+  }
+},{
+  "_id": {
+    "$oid": "62f60ad2e3ea599af9e00985"
+  },
+  "name": "hamburger&pizza",
+  "num_comandas": 0,
+  "num_empleados": 1,
+  "address_id": {
+    "$oid": "62f60b7ae3ea599af9e0098f"
+  }
+}]

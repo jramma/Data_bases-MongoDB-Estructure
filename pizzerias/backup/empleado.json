@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "62f60b44e3ea599af9e00986"
+  },
+  "name": "Antonio",
+  "nif": "11123476A",
+  "id_tienda": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone": 656656656,
+  "puesto": "Cocinero"
+},{
+  "_id": {
+    "$oid": "62f60b46e3ea599af9e00987"
+  },
+  "name": "Luis",
+  "nif": "22222222222B",
+  "id_tienda": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone": 226666222,
+  "puesto": "repartidor"
+},{
+  "_id": {
+    "$oid": "62f60b47e3ea599af9e00988"
+  },
+  "name": "Esther",
+  "nif": "22334422C",
+  "id_tienda": {
+    "$oid": "62f60acde3ea599af9e00982"
+  },
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone": 676767676,
+  "puesto": "Repartidor"
+},{
+  "_id": {
+    "$oid": "62f60b48e3ea599af9e00989"
+  },
+  "name": "Francisca",
+  "nif": "23232323E",
+  "id_tienda": {
+    "$oid": "62f60acfe3ea599af9e00983"
+  },
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone": 686686686,
+  "puesto": "Repartidor"
+},{
+  "_id": {
+    "$oid": "62f60b49e3ea599af9e0098a"
+  },
+  "name": "Manel",
+  "nif": "233345323D",
+  "id_tienda": {
+    "$oid": "62f60acfe3ea599af9e00983"
+  },
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone": 68686686,
+  "puesto": "Cocinero"
+},{
+  "_id": {
+    "$oid": "62f60b4ae3ea599af9e0098b"
+  },
+  "name": "Carmen",
+  "nif": "77777777F",
+  "id_tienda": {
+    "$oid": "62f60ad1e3ea599af9e00984"
+  },
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone": 657657657,
+  "puesto": "Cocinero"
+},{
+  "_id": {
+    "$oid": "62f60b4ce3ea599af9e0098c"
+  },
+  "name": "Andrea",
+  "nif": "23432343G",
+  "id_tienda": {
+    "$oid": "62f60ad2e3ea599af9e00985"
+  },
+  "address_id": {
+    "$oid": "62f60b7be3ea599af9e00990"
+  },
+  "phone": 668866994,
+  "puesto": "Repartidor"
+}]
